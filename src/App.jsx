@@ -12,7 +12,6 @@ import {
 import "./App.css";
 
 const App = () => {
-    console.log(import.meta.env.VITE_APP_RAPIDAPI_KEY);
     return (
         <div className="app">
             <div className="navbar">
