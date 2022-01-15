@@ -1,0 +1,29 @@
+{
+    "name": "cryptonium",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@ant-design/icons": "^4.6.4",
+        "@reduxjs/toolkit": "^1.6.1",
+        "antd": "^4.16.13",
+        "axios": "^0.21.1",
+        "chart.js": "^3.5.1",
+        "html-react-parser": "^1.2.8",
+        "millify": "^4.0.0",
+        "moment": "^2.29.1",
+        "react": "^17.0.2",
+        "react-chartjs-2": "^3.0.4",
+        "react-dom": "^17.0.2",
+        "react-redux": "^7.2.4",
+        "react-router-dom": "^5.2.1",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^1.0.7",
+        "vite": "^2.7.2"
+    }
+}
